@@ -2,8 +2,10 @@
 # Docker入門課題
 
 <h3> 環境(イメージ)</h3>
-- ubuntu:latest 
-* nginx:nginx11
+<ul>
+  <li>ubuntu:latest</li>
+  <li>nginx:nginx11</li>
+</ul>
 
   
 <h3> 環境構築手順</h3>
