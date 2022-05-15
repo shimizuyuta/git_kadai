@@ -1,10 +1,7 @@
-php git study
-
-
-study
-fafafa
-
-gaga
-
-
-fafa
+a16066680412,   sample_nginx           "bash"                   About a minute ago   Exited (0) About a minute ago                              unruffled_golick
+b38a2db22c73,   sample_nginx           "bash"                   2 minutes ago        Exited (0) 2 minutes ago                              thirsty_poitras
+74dce2a307cb,   sample_nginx           "bash"                   2 minutes ago        Exited (130) 2 minutes ago                              sample
+e054c9f391e8,   sample_nginx           "-p 8080:80"             20 minutes ago       Created                             clever_bouman
+72e768e31856,   sample_nginx           "-rm -p 8080:80"         20 minutes ago       Created                              lucid_nobel
+cf6aa4530d1e,   sample_nginx           "--rm -p 8080:80"        20 minutes ago       Created                              determined_poincare
+9215eb5d5973,
