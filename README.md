@@ -1,5 +1,5 @@
 
-# Docker入門課題
+# Docker+Git入門課題
 
 <h3> 環境(イメージ)</h3>
 <ul>
