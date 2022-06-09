@@ -23,4 +23,4 @@ docker run -p 8080:80 --name nginx-ubuntu-container
 
 
 <img width="400" alt="qiita-square" src="https://user-images.githubusercontent.com/58338829/168478779-558f697f-48aa-4876-811f-d9765df9b20a.png">
-![image](https://user-images.githubusercontent.com/58338829/168478779-558f697f-48aa-4876-811f-d9765df9b20a.png)
+
